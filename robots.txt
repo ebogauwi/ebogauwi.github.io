@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebogauwi.github.io/JVq/sitemap_index.txt
+Sitemap: https://ebogauwi.github.io/QZE/sitemap_index.txt
+Sitemap: https://ebogauwi.github.io/ecJ/sitemap_index.txt
+Sitemap: https://ebogauwi.github.io/neB/sitemap_index.txt
